@@ -2,6 +2,7 @@
 repository of the current Firefox version of the InVID-WeVerify verification plugin
 
 plugin fake_video_news_debunker_by_invid-0.72-fx.xpi available for download. 
+
 sha-256: cf38cbc71a02b50f6bf763e6c0bfa1a072ee7e67f6f9f47e0504d66d02175227
 
 Release notes of v0.72:
